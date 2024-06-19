@@ -1,0 +1,18 @@
+What is Python
+Python is an object oriented programming language.
+What is polymorphism
+Its a greek work. many forms.
+What is R
+R is a programming language used for data analysis.
+What is NLTK
+It is a python package for natural language processigng.
+computer
+A computer is a programmable device that stores, retrieves, and processes data and gives output.
+Data Science?
+Data science is the interdesciplinary field. It helps in extracting insights or knowledge from data.
+What is Artificial Intelligence(AI)
+Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intelligence and discernment.
+what is Class
+A class defines the characteristics of a certain type of object. It defines what its members will remember, the messages to which they will respond, and what form the response will take.
+Inheritance
+Inheritance is property such that a parent (or super) class passes the characteristics of itself to children (or sub) classes that are derived from it. The sub-class has the option of modifying these characteristics in order to make a different but fundamentally related class from the super-class
